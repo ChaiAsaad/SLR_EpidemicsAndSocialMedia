@@ -10,12 +10,16 @@ Full-text version of the v1.0 preprint can be accessed in https://preprints.jmir
 Acknowledgments:
 This work was carried out as part of the e-Covid and CovInov projects which are funded by the Centre National de la Recherche Scientifique et Technique (CNRST) and the Rabat-Salé-Kénitra region. 
 
-Authors and affiliations:
+Authors and affiliations: 
+
 Chaimae Asaad(1,2), Imane Khaouja(1), Mounir Ghogho(1,3), Karim Baïna(2)
+
 (1) TicLab, College of Engineering and Architecture, International University of Rabat, Morocco
 (2) Alqualsadi, Rabat IT Center, ENSIAS, Mohammed V University in Rabat, Morocco
 (3) Faculty of Engineering, University of Leeds, United Kingdom
 
 Contact corresponding author: 
+
 Chaimae Asaad
+
 chaimae.asaad@uir.ac.ma

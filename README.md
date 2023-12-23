@@ -1,4 +1,4 @@
-# SLR_EpidemicsAndSocialMedia
+# SLR Epidemics And SocialMedia
 
 Multimedia Appendices for the Systematic Literature Review titled "When Infodemic Meets Epidemic: A Systematic Literature Review" 
 This Repository provides the appendices to the paper titled "When Infodemic Meets Epidemic: A Sytematic Literature Review" v1.0 published in JMIR Preprints  and v2.0 titled "A Systematic Literature Review on Social Media Enabled Bio-surveillance, Misinformation Detection and Mental Health Assessment During Epidemics" currently under review in the journal of Medical Internet Research. 

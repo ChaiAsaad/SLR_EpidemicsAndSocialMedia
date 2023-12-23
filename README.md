@@ -22,4 +22,12 @@ Contact corresponding author:
 
 Chaimae Asaad
 
+# How to access and read data in repository
+
+1. numbers file can be opened in Excel or Google Sheets or Numbers (mac)
+2. zip files need to be decompressed
+3. bib files can be downloaded and opened in any bibliography/citation software
+4. These files are presented here in raw formats. We are currently working on visualisations of these files in simpler formats online, and will upload these as soon as possible.
+5. Contact Us if you need any help accessing these files, or if you have any questions.
+
 chaimae.asaad@uir.ac.ma
